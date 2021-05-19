@@ -1,0 +1,38 @@
+.div-1{
+    text-align: center;
+    border-bottom:1px solid lightgray;
+    color: blue;
+    font-weight: 600;
+}
+.div{
+    display: flex;
+    border: 1px solid lightgray;
+    margin: 5px;
+}
+.a{
+    padding: 50px;
+    height: 550px;
+    width: 325px;
+    margin: 20px;
+    flex: 10%;
+
+}
+.a1{
+    padding: 50px;
+    height: 550px;
+    width: 325px;
+    margin: 20px;
+    flex: 60%;
+  
+}
+.b{
+    border: 1px solid lightgray;
+    height: 550px;
+    width: 335px;
+    position: absolute;
+    margin: 30px;
+    padding: 50px;
+    right: 0;
+    flex: -9%;
+    float: right;
+}
