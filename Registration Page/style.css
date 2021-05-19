@@ -1,0 +1,23 @@
+
+header{
+    
+    justify-content: space-between;
+    align-items: center;
+    position: sticky;
+    top:0;
+    background-color: white;
+    z-index: 100;
+    width: 100%;
+}
+.form{
+    background-color: rgb(255, 215, 221);
+    padding: 6px; 
+    padding-bottom: 2px; 
+    padding-left: 18px;
+    text-indent: 500px;
+    align-items: center;
+
+}
+.submit{
+    align-items: center;
+}
